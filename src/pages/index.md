@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Blue Goose Quilt Company
-image: /img/bgqlogo.png
+image: /img/bgqlogo.svg
 heading: Great coffee with a conscience
 subheading: Where Quilts are Loved!
 mainpitch:
