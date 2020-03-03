@@ -3,14 +3,15 @@ templateKey: index-page
 title: Blue Goose Quilt Company
 image: /img/1.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Where Quilts are Loved!
 mainpitch:
   title: Why Kaldi
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    At Blue Goose Quilt Company, we believe that your quilt should reflect your
+    own personal style. Each quilt should be eye-catching and unique, just like
+    you. Blue Goose Quilt Company is dedicated to helping our customers complete
+    quilts through our quilting services, remember a loved one with a memory
+    quilt, and repair quilts that are treasured heirlooms.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
